@@ -6,7 +6,9 @@
     "firebase",
     "paper",
     "material",
-    "paperfire"],
+    "paperfire"
+  ],
+  "license": "MIT",
   "dependencies": {
     "paperfire-anon": "PaperfireElements/paperfire-anon"
   }
