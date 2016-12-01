@@ -1,6 +1,12 @@
 {
   "name": "paperfire-elements",
   "description": "A collection of paperfire elements",
+  "keywords": [
+    "element-collection",
+    "firebase",
+    "paper",
+    "material",
+    "paperfire"],
   "dependencies": {
     "paperfire-anon": "PaperfireElements/paperfire-anon"
   }
