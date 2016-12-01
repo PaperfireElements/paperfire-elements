@@ -1,0 +1,7 @@
+{
+  "name": "paperfire-elements",
+  "description": "A collection of paperfire elements",
+  "dependencies": {
+    "paperfire-anon": "PaperfireElements/paperfire-anon"
+  }
+}
