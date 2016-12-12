@@ -6,7 +6,9 @@
     "firebase",
     "paper",
     "material",
-    "paperfire"
+    "paperfire",
+    "polymer",
+    "web-component"
   ],
   "license": "MIT",
   "dependencies": {
